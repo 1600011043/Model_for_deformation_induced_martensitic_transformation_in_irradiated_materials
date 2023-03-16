@@ -1,0 +1,4 @@
+source code for the simulation in ABAQUS 6.14
+.inp files: meshes, boundary conditions, and model parameters
+.dll files: user defined material properties
+.py files: post-processing
